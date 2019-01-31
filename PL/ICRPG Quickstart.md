@@ -1,5 +1,5 @@
 # BEZPŁATNE WPROWADZENIE 
-### KUP ICRPG CORE BY ZYSKAĆ DOSTĘP DO CAŁEJ TREŚCI KSIĄŻKI, DODATKÓW ORAZ AKTUALIZACJI ONLINE I WIELE, WIELE WIĘCEJ!
+### KUP „ICRPG CORE”, BY ZYSKAĆ DOSTĘP DO CAŁEJ TREŚCI KSIĄŻKI, DODATKÓW ORAZ AKTUALIZACJI ONLINE I WIELE, WIELE WIĘCEJ!
 
 RUNEHAMMER GAMES prezentuje:  
 WPROWADZENIE DO INDEKS CARD RPG  
@@ -35,100 +35,108 @@ DRUKOWANIE: Zezwala się na drukowanie tego dokumentu do użytku osobistego.
 # WPROWADZENIE
 
 ## BEZPŁATNE WPROWADZENIE 
-Ten mały plik PDF to tylko niewielki fragment książki ICRPG CORE oferowanej wraz z ciągłym wsparciem dla graczy. Wszystko, czego potrzebujesz by zrozumieć, poczuć i przetestować grę, jest tutaj, jednakże ponad 130 stron klas, potworów, technik prowadzenia gry, ŁUPÓW, pełnychklimatu SCI FI oraz FANTASY z klasami / formami biologicznymi i wiele więcej jest wyłącznie dostępnych w pełnym wydaniu ICRPG CORE. Ponadto, jeśli bierzesz pod uwagę zakup pakietu ICRPG, weź pod uwagę cyfrową wersję CORE, która zawieraw sobie kilkadziesiąt drukowanych postaciami bohaterów, dodatki do gry online oraz BEZPŁATNE aktualizacje na zawsze! Wersja ta obejmuje całe przygody, uzupełnienia dotyczące bio-form, klas postaci, tabel i nie tylko! Już CORE ma ponad 60 stron darmowych aktualizacji i niezliczonych zasad wprowadzonych przez społeczność online. To żywa gra. Witamy. 
+Ten mały plik PDF to tylko niewielki fragment książki ICRPG CORE oferowanej wraz z ciągłym wsparciem dla graczy. Wszystko, czego potrzebujesz, by zrozumieć, poczuć i przetestować grę, jest tutaj. Jednakże ponad 130 stron klas, potworów, technik prowadzenia gry, ŁUPÓW pełnych klimatu SCI FI oraz FANTASY z klasami / formami biologicznymi i wiele więcej jest wyłącznie dostępnych w pełnym wydaniu ICRPG CORE. Ponadto, jeśli bierzesz pod uwagę zakup pakietu ICRPG, weź pod uwagę cyfrową wersję CORE, która zawiera w sobie kilkadziesiąt drukowanych postaci bohaterów, dodatki do gry online oraz BEZPŁATNE aktualizacje dostępne zawsze! Wersja ta obejmuje całe przygody, uzupełnienia dotyczące bio-form, klas postaci, tabel i nie tylko! Już sam CORE ma ponad 60 stron darmowych aktualizacji i niezliczonych zasad wprowadzonych przez społeczność online. To żywa gra. Witamy. 
 
-Dzięki za wzięcie pod uwagę ICRPG, teraz pora rzucić kilkoma kościami.
+Dzięki za wzięcie pod uwagę ICRPG, teraz pora rzucić kilkoma kośćmi.
 
 ## ICRPG W SKRÓCIE
 
-ICRPG wykorzystuje podstawowe zasady PRÓB i WYSIŁKU. Gracze kolejno wykonują ruchy w ramach swojej tury opisując działanie i opierając się na ŁUPACH (patrz s. 110)[To be changed latter] oraz STATYSTYKACH postaci (zobacz str. 25)[To be changed latter] rzucają kościami, by sprawdzić, czy pokonali POZIOM TRUDNOŚCI (TARGET)[How to fuck???]w ramach lokacji czy wyzwania (patrz str. 13) . Jeśli im się powiedzie, wkładają WYSIŁEK (patrz str. 14) w kierunku osiągnięcia obranego celu, czy to zabicia potwora, rzucenia zaklęcia, czy aby otworzyć zaryglowaną skrzynię.
+ICRPG wykorzystuje podstawowe zasady PRÓB i WYSIŁKU. Gracze kolejno wykonują ruchy w ramach swojej tury, opisując działanie i opierając się na ŁUPACH (patrz s. 110) oraz STATYSTYKACH postaci (zobacz str. 25) rzucają kośćmi, by sprawdzić, czy pokonali CEL / POZIOM TRUDNOŚCI (TARGET) w ramach lokacji czy wyzwania (patrz str. 13). Jeśli im się powiedzie, wkładają WYSIŁEK (patrz str. 14) w kierunku osiągnięcia obranego celu, czy to zabicia potwora, rzucenia zaklęcia, czy aby otworzyć zaryglowaną skrzynię.
 
-Aby zaprezentować, czy też przekazać szczegóły oraz plan rozgrywającej się akcji, gra używa drukowanych miniatur postaci, przedmiotów oraz lokacji. One ożywiają stół na który odbywa się gra. To jest hobby polegające na tworzeniu, opowiadaniu historii i śmiechu w piątkowy wieczór. Zasady, reguły i innowacje ICRPG mogą być również wykorzystywane przez kolekcjonerów reguł, twórców systemów autorskich ("homebrewer"), aby uatrakcyjnić każdą grę fabularną nadając jej płynności i szybkości. 
+Aby zaprezentować, czy też przekazać szczegóły oraz plan rozgrywającej się akcji, gra używa drukowanych miniatur postaci, przedmiotów oraz lokacji. One ożywiają stół, na który odbywa się gra. To jest hobby polegające na tworzeniu, opowiadaniu historii i śmiechu w piątkowy wieczór. Zasady, reguły i innowacje ICRPG mogą być również wykorzystywane przez kolekcjonerów reguł, twórców systemów autorskich, aby uatrakcyjnić każdą grę fabularną, nadając jej płynności i szybkości. 
 
-Na koniec, ICRPG CORE zawiera dwa wielkie ŚWIATY, czy też tła wydarzeń: ALFHEIM, czyli świat fantasy ukazywany w powieściach Runehammer oraz WARP SHELL, epicki science fiction w zrujnowanym wszechświecie stawiającym czoła zagładzie. Światy te obejmują klasy postaci oraz ich wyposażenie, i zostaną znacznie rozszerzone w przyszłych wydaniach ICRPG.
+Na koniec, ICRPG CORE zawiera dwa wielkie ŚWIATY, czy też tła wydarzeń: ALFHEIM, czyli świat fantasy ukazywany w powieściach Runehammer oraz WARP SHELL, epicki science fiction w zrujnowanym wszechświecie stawiającym czoła zagładzie. Światy te obejmują klasy postaci oraz ich wyposażenie i zostaną znacznie rozszerzone w przyszłych wydaniach ICRPG.
 
-Odwróć się, się komfortowo i spróbuj zrobić kilka postaci na rozgrzewkę. Dzięki za przeczytanie.
-## PODCZAS TWOJEJ TURY  
+Przeczuć kartki, rozsiądź się komfortowo i spróbuj zrobić kilka postaci na rozgrzewkę. Dzięki za przeczytanie!
 
-### OPISZ 
-Cała akcja na dobrej sesji rpg  pochodzi z opisu. Rozmawiaj! Bądź odważny! Pomyśl WEWNĄTRZ swojej postaci i pozwól wyobraź wejść w akcję. Opisując to, co chcesz zrobić, co chcesz wiedzieć lub jak zareagujesz, będzie ustalać reguły gry w czasie jej trwania.
+# PODCZAS TWOJEJ TURY  
+
+## OPISZ 
+Cała akcja na dobrej sesji rpg  pochodzi z opisu. Rozmawiaj! Bądź odważny! Pomyśl WEWNĄTRZ swojej postaci i pozwól wyobraźni wejść w akcję. Opisując to, co chcesz zrobić, co chcesz wiedzieć lub jak zareagujesz, będzie ustalać reguły gry w czasie jej trwania.
 * "Chcę zgruchotać ten szkielet mieczem!"
 * "Skacze prosto na tego krokodyla".
 * "Spróbuję przeczytać runy ..."
 * "Czy mogę sprawdzić, czy na horyzoncie są błotniści ludzie?"
 
-### RZUĆ
-Bohaterowi zbudowani są z różnych współczynników (STATS)[Do przemyślenia], które będą używane do dokonywania cudów! W zależności od tego, jaki rodzaje działania sobie wymarzyłeś, MG zazwyczaj prosi o rzut D20, lub być może przemkniesz [dash]przez pole bitwy.
-* "Wykonaj test siły (STR)".
-* "Ok, rzuć zręczność (DEX), by wykonać ten skok."
+## RZUĆ
+Bohaterowi zbudowani są z różnych współczynników (STATS), które będą używane do dokonywania cudów! W zależności od tego, jaki rodzaje działania sobie wymarzyłeś, MG zazwyczaj prosi o rzut k20, lub być może przemkniesz przez pole bitwy.
+* "Wykonaj test siły (SIŁ)".
+* "Ok, rzuć zręczność (ZRE), by wykonać ten skok."
 * "W porządku, zrób rzut na inteligencję (INT), aby zacząć tłumaczyć tekst."
 * "Wykonaj test powodzenia zwiadu".
 
-### ZOBACZ REZULTAT
+## ZOBACZ REZULTAT
 Kiedy wykonasz swoje rzuty, MG opisze, jak scena zmienia się z powodu Twoich działań. Może bitwa dopiero się rozkręca, może całkowicie ukończyłeś to wyzwanie lub odkryłeś tajemnicę piramid! Kiedy mija tura za turą wokół ciebie, scena będzie się zmieniać.
 * "Rozpłatałeś szkielet na dwie części!"
 * "Przewracasz się i wpadasz prosto w błoto".
 * "Za pewien czas odszyfrujesz te runy".
-* "Doskonały rzut. W oddali widzisz cztery postacie.
+* "Doskonały rzut. W oddali widzisz cztery postacie."
 
-## PRZEMIESZCZANIE I AKCJE
-### TRZY RODZAJE RUCHÓW
+# PRZEMIESZCZANIE I AKCJE
 
-DALEKI BIEG Nazywany również “Zrywem”, stosowany, gdy potrzeba po prostu przebiec przez mapę na pełnym sprincie. Korzystasz z całej swojej kolejki, aby pędzić do celu, tak długo, jak to możliwe. Będziesz wiedził, że jest to "DALEKO" korzystając z pomocy bananowej miary odległości.
+## TRZY RODZAJE RUCHÓW
 
-RUCH BLISKO i WYKONANIE AKCJI Najbardziej rozpowszechnionym typem ruchu jest przejście na niewielką odległość, a następnie zrobienie czegoś konkretnego. To bardzo przypomina prawdziwe życie, w którym często "podchodzisz do maszyny asteroidów i włączasz ją" albo "idziesz do lodówki i by porwać gazowany napój".
+**DALEKI BIEG** 
+Nazywany również “Zrywem”, stosowany, gdy potrzeba po prostu przebiec przez mapę na pełnym sprincie. Korzystasz z całej swojej kolejki, aby pędzić do celu, tak długo, jak to możliwe. Będziesz wiedział, że jest to "DALEKO" korzystając z pomocy bananowej miary odległości.
+
+**RUCH BLISKO i WYKONANIE AKCJI** 
+Najbardziej rozpowszechnionym typem ruchu jest przejście na niewielką odległość, a następnie zrobienie czegoś konkretnego. To bardzo przypomina prawdziwe życie, w którym często "podchodzisz do automatu do gier i włączasz go" albo "idziesz do lodówki i by porwać gazowany napój".
  
-POZOSTANIE W MIEJSCU i WYKONANIE AKCJI Akcje są nieograniczoną listą możliwych rzeczy, które możesz zrobić w swoim świecie gry. W ten sposób wpływasz na historię, pokonujesz wroga, odkrywasz tajemnicę czy pomagasz sojusznikowi. ICRPG dzieli tę nieograniczoną dziedzinę na trzy rodzaje, które wykorzystasz w swojej turze, by być niesamowitym.
+**POZOSTANIE W GOTOWOŚCI i WYKONANIE AKCJI**
+Akcje są nieograniczoną listą możliwych rzeczy, które możesz zrobić w swoim świecie gry. W ten sposób wpływasz na historię, pokonujesz wroga, odkrywasz tajemnicę czy pomagasz sojusznikowi. ICRPG dzieli tę nieograniczoną dziedzinę na trzy rodzaje, które wykorzystasz w swojej turze, by być niesamowitym.
 
-### TRZY RODZAJE AKCJI
+## TRZY RODZAJE AKCJI
 
-PROSTE Bez rzutu, bez poziomu trudności, bez problemu! Proste działania są właśnie tym. Mają miejsce natychmiast, zajmują mało czasu i zawsze kończą się sukcesem. Rozmowa z sojusznikami, łapanie eliksiru lub zmiana broni to Proste Akcje.
+**PROSTE** Bez rzutu, bez poziomu trudności, bez problemu! Proste działania są właśnie tym. Mają miejsce natychmiast, zajmują mało czasu i zawsze kończą się sukcesem. Rozmowa z sojusznikami, łapanie eliksiru lub zmiana broni to Proste Akcje.
 
-TEST Test to rzut kostką, aby sprawdzić, czy możesz zrobić coś szybkiego. To rzut kończący się sukcesem bądź porażką. Jeśli spróbujesz "przeskanować okolicę w poszukiwaniu złych gości" lub "przeskoczyć nad miną", rzucasz test. I będzie to rzut D20, zmodyfikowany wszystkimi kwalifikującymi się STATYSTYKAMI postaci, które pomagają przebić poziom trudności.
+**TEST**
+Test to rzut kostką, aby sprawdzić, czy możesz zrobić coś szybkiego. To rzut kończący się sukcesem bądź porażką. Jeśli spróbujesz "przeskanować okolicę w poszukiwaniu złych gości" lub "przeskoczyć nad miną", rzucasz test. I będzie to rzut k20, zmodyfikowany wszystkimi kwalifikującymi się STATYSTYKAMI postaci, które pomagają przebić poziom trudności.
 
-PRÓBA Najczęstszym typem akcji jest PRÓBA. Należą do nich otwieranie skrzyń, atakowanie wrogów, rzucanie zaklęć i naprawa gwiezdnego napędu. Podobnie jak test, rzucasz D20 + STATYSTYKI, aby pokonać cel, ale po udanej próbie, rzucasz WYSIŁEK[pasuje jak pięśćdo oka].
+**PRÓBA** Najczęstszym typem akcji jest PRÓBA. Należą do nich otwieranie skrzyń, atakowanie wrogów, rzucanie zaklęć i naprawa gwiezdnego napędu. Podobnie jak test, rzucasz k20 + STATYSTYKI, aby pokonać cel, ale po udanej próbie, rzucasz WYSIŁEK.
 
-## CEL I WYSIŁEK
+# CEL I WYSIŁEK
 
-### Pokonać Cel (target).
+## Pokonać Cel (Target).
 
-Wszystkiego rodzaju Akacje, Testy i Próby wspominają o CELU. Jest to liczba, którą staracie się pobić w każdym rzucie. Wasz MG zadba o to by był on umieszczony w widocznym miejscu na stole cały czas. On oznajmi też wyraźnie, kiedy się zmieni, “Cel wynosi teraz 12!” Kiedy Cel idzie w górę, wszystko staje się trudniejsze! Kiedy idzie w dół, wasze rzuty staną się łatwiejsze.
+Wszystkiego rodzaju Akacje, Testy i Próby wspominają o CELU. Jest to liczba, którą staracie się pobić w każdym rzucie. Wasz MG zadba o to, by był on umieszczony w widocznym miejscu na stole cały czas. On oznajmi też wyraźnie, kiedy się zmieni, “Cel wynosi teraz 12!” Kiedy Cel idzie w górę, wszystko staje się trudniejsze! Kiedy idzie w dół, wasze rzuty staną się łatwiejsze.
 
-Liczba ta reprezentuję ogólny poziom wyzwania lub sytuacji, z którą się przychodzi ci się zmierzyć w danej chwili. Niezależnie od tego czy próbujesz zatakować przeciwnika, przeskoczyć rzekę, czy dojrzeć coś we mgle, rzucasz k20 i dodajesz pasujące statystyki postaci próbując osiągnąć sumę wyższą niż przeklęty Cel. To sprawia, że Mistrz Gry może w łatwy i wyraźny sposób podnosić trudność wyzwania, jak również czyni prostrzym i jaśniejszym życie graczy.
+Liczba ta reprezentuję ogólny poziom wyzwania lub sytuacji, z którą się przychodzi ci się zmierzyć w danej chwili. Niezależnie od tego, czy próbujesz zaatakować przeciwnika, przeskoczyć rzekę, czy dojrzeć coś we mgle, rzucasz k20 i dodajesz pasujące statystyki postaci, próbując osiągnąć sumę wyższą niż przeklęty Cel. To sprawia, że Mistrz Gry może w łatwy i wyraźny sposób podnosić trudność wyzwania, jak również czyni prostszym i jaśniejszym życie graczy.
 
 Nie wszystkie Rzuty są równe! Czasem będziesz próbował czegoś TRUDNEGO, a innym razem twój rzut będzie ŁATWY. TRUDNE Rzuty są równe Celowi +3, podczas gdy ŁATWE Rzuty to Cel - 3. O tym, czy twój Cel jest standardowy, Łatwy czy Trudny do pokonania decydują wszystkie detale i kontekst tego Testu, czy Próby.
 
-Przykłady, kiedy Cel jest ŁATWY:
+**Przykłady, kiedy Cel jest ŁATWY:**
 * Już raz spróbowałeś
 * Twój bohater ma bogate doświadczenie
-* Nie ma presji czasu, ani czegoś rozpraszjącego
-* Sojusznik pomaga ci korzystając z własnej tury
+* Nie ma presji czasu, ani czegoś rozpraszającego
+* Sojusznik pomaga ci, korzystając z własnej tury
 * Masz ŁUP, który czyni to zadanie ŁATWYM
 
-Przykłady, kiedy Cel staje się TRUDNY: 
+**Przykłady, kiedy Cel staje się TRUDNY:**
 * Zadanie lub otoczenie jest zupełnie ci nieznane
 * Istnieje magiczny opór na twój wysiłek
 * Coś cię rozprasza, ktoś atakuje, czy też otoczenie jest niewłaściwe
-* Masz poważne obrażnia lub inną niemoc
+* Masz poważne obrażenia lub jakieś upośledzenie
 * To jest naprawdę daleki skok!
 
-### RZUĆ WYSIŁEK 
-Najbardziej unikalną i rozbudowaną częścią mechaniki ICRPG jest koncepcja WYSIŁKU. Jest to słowo klucz dla każdego rodzaju pracy nad zadaniami, czy przeciwnościami. Kiedy w Teście odnosisz sukces, przychodzi pora na Rzut WYSIŁKU. Kiedy uda ci się rzuci wystarczająco dużo WYSIŁKU by POKONAĆ zadanie lub wroga, twój cel jest osiągniety! Jest to sposób na śledzenie twoich postępów nad zadaniem lub walce. 
+## RZUĆ WYSIŁEK 
+Najbardziej unikalną i rozbudowaną częścią mechaniki ICRPG jest koncepcja WYSIŁKU. Jest to słowo klucz dla każdego rodzaju pracy nad zadaniami, czy przeciwnościami. Kiedy w Teście odnosisz sukces, przychodzi pora na Rzut WYSIŁKU. Kiedy uda ci się rzucić wystarczająco dużo WYSIŁKU, by POKONAĆ zadanie lub wroga, twój cel zostaje osiągnięty! Jest to sposób na śledzenie twoich postępów nad zadaniem lub walce. 
 
 Tutaj są przykład, by to lepiej zilustrować:
-* Kiedy atakujesz wroga, OBRAŻENIA BRONI, są tym co rzucasz. Jeśli zdasz wrogowi odpowiednią liczbę obrażeń, pokonasz go!
+* Kiedy atakujesz wroga, OBRAŻENIA BRONI, są tym, co rzucasz. Jeśli zdasz wrogowi odpowiednią liczbę obrażeń, pokonasz go!
 * Kiedy by rzucić magiczne zaklęcie, musisz odczytać tajemną starożytną księgę, EFEKT MAGICZNY jest miarą twojego postępu w odszyfrowaniu tekstu.
 * Podczas otwierania skrzyni, BAZOWA PRACA jest wysiłkiem palców i umysłu nad zamkiem. Zostań przy niej wystarczająco długo, a otworzy się!
 * Kiedy rzucasz 20 podczas twojej Próby, rzucasz WYSIŁEK jak zwykle, lecz dodatkowo także k12 NAJWYŻSZEGO WYSIŁKU! To może pomóc przezwyciężyć trudności z wielką prędkością!
-* Każda przeszkoda czy wróg przeciwko któremu rzucasz WYSIŁEK będzie miał SERCA. Każde SERCE reprezentuje 10 punktów WYSIŁKU do pokonania. Teraz widzisz, dlaczego rzut k12 jest tak ważny!
+* Każda przeszkoda, czy wróg, przeciwko któremu rzucasz WYSIŁEK, będzie miał SERCA. Każde SERCE reprezentuje 10 punktów WYSIŁKU do pokonania. Teraz widzisz, dlaczego rzut k12 jest tak ważny!
 
-Nieważne czy jako graczy, czy Mistrzy Gry, gdy raz nabędziesz nieco praktyki w rzucaniu Testów i Wysiłku, zobaczysz jak unwiersalna jest przyjemna jest to mechanika. Większość gier skupia się tylko na zliczaniu OBRAŻEŃ w ten sposób, porzucając wielkie możliwości jakie oferuje taka mechanika! ICRPG traktuje wszystkie czynności w podobny sposób, nie  zolując tego poziomu detali i zabawy tylko do graczy zadających obrażenia.
+*Nieważne czy jako gracz, czy Mistrz Gry, gdy raz nabędziesz nieco praktyki w rzucaniu Testów i Wysiłku, zobaczysz jak uniwersalna i przyjemna jest to mechanika. Większość gier skupia się tylko na zliczaniu OBRAŻEŃ w ten sposób, porzucając wielkie możliwości, jakie oferuje taka mechanika! ICRPG traktuje wszystkie czynności w podobny sposób, nie izolując tego poziomu szczegółowości i zabawy tylko do graczy zadających obrażenia.*
+
+# TYPY TESTÓW
 
 ## STANDARDOWE TESTY 
-Kiedy opisujesz co chciałbyś zrobić, Mistrz Gry odpowiada, “Okej, rzuć ZRE” albo “rzuć Zwiady”, albo “rzuć Charyzmę i pokonaj Cel, który wynosi teraz 11”. Wiedza o tym, która ze STATYSTYK jest używana do jakich rodzajów Testów jest kluczem w prowadzeniu postaci, tak by grać wykorzystując jej talenty. Zapamiętaj, Testy są prostymi rzutami sukcesu/porażki, gdzie żaden Wysiłek nie jest potrzebny. Albo udaje ci się pokonać Cel albo nie. Tabela po prawej pokazuje kilka standardowych Testów i powiązanych z nimi typów rzutów. Do TY zawzwyczaj robisz podczas przygody? Atakujesz wszystko co się rusza? Badasz dzwine tajemnice? Kryjesz się w cieniu?
+Kiedy opisujesz, co chciałbyś zrobić, Mistrz Gry odpowiada, “Okej, rzuć ZRE” albo “rzuć Zwiady”, albo “rzuć Charyzmę i pokonaj Cel, który wynosi teraz 11”. Wiedza o tym, która ze STATYSTYK jest używana do odpowiednich rodzajów Testów, jest kluczem w prowadzeniu postaci tak, by grać wykorzystując jej talenty. Zapamiętaj, Testy są prostymi rzutami sukcesu/porażki, gdzie żaden Wysiłek nie jest potrzebny. Albo udaje ci się pokonać Cel, albo nie. Tabela po prawej pokazuje kilka standardowych Testów i powiązanych z nimi typów rzutów. Do TY zawzwyczaj robisz podczas przygody? Atakujesz wszystko, co się rusza? Badasz dzwine tajemnice? Kryjesz się w cieniu?
 
 **SIŁ Testy**  
-Kurczowe trzymanie się czegość, Zatrzymanie toczącego się wagonu, Utrzymanie równowagi wobec wichury, Utrzymanie maswynch wrót by były otwarte  
+Kurczowe trzymanie się czegoś, Zatrzymanie toczącego się wagonu, Utrzymanie równowagi wobec wichury, Utrzymanie masywnych wrót by były otwarte  
 **ZRE Testy**  
 Przeskoczenie nad przeszkodą, Ukrycie się w cieniu, Skradanie się do celu, Uniknięcie kuli ognia, Celowanie działem  
 **KON Testy**  
@@ -140,109 +148,109 @@ Dostrzeganie wrogów z oddali, Wytrwanie w wierze, Poszukiwanie pułapek, Empati
 **CHA Testy**  
 Zastraszenie strażnika, Odporność na pranie mózgu, Odporność na strach, Rozkazywanie oddziałowi do ataku  
 
-### Dramatyczne i Cudowane WYNIKI TESTÓW
-Zdawanie lub oblewanie Testów może być ważnym momentem w każdej grze. Tutaj znajdziecie przykłady bonusów i porażek jakimi mogą zostać obdarowani ci, którzy ośmielają się rzucać.  
+## Dramatyczne i Cudowne WYNIKI TESTÓW
+Zdawanie lub oblewanie Testów może być ważnym momentem w każdej grze. Tutaj znajdziecie przykłady bonusów i porażek, jakimi mogą zostać obdarowani ci, którzy ośmielają się rzucać.  
 
 | Rodzaj Testu | Zaliczony | Oblany | 
 | --- | --- | --- |
-| Blokowanie przejścia SIŁ | Nikt nie może przejść! | Zostajesz odrzucony, przewracasz się lub jesteś zmiażdżony | 
-| Przeskoczenie ZRE | Przeskakujesz z gracją nad przeszkodą | Upadasz w przepaść, brak postępów |
-| Odporność na truciznę KON	| Otrzymujesz minimalną ilość obrażeń lub wcale | Otrzymujesz pełne obrażenia od trucizny |
-| Przypominanie INT | Szybko przypominasz sobie wszystkie detale | Całkowicie zapominasz lub pamiętasz źle |
-| Zwiad MĄD | Ujawniasz istotne szczegóły | Nie możesz nic zobaczyć wyraźnie, wzniecasz fałszywy alarm |
-| Zastraszenie CHA | Naginasz postać do swojej woli | Twój głos nikogo nie przekonuje, jest piskliwy |
+| **Blokowanie przejścia SIŁ** | Nikt nie może przejść! | Zostajesz odrzucony, przewracasz się lub jesteś zmiażdżony | 
+| **Skok ZRE** | Przeskakujesz z gracją nad przeszkodą | Upadasz w przepaść, brak postępów |
+| **Odporność na truciznę KON**	| Otrzymujesz minimalną ilość obrażeń lub wcale | Otrzymujesz pełne obrażenia od trucizny |
+| **Przypominanie INT** | Szybko przypominasz sobie wszystkie detale | Całkowicie zapominasz, lub pamiętasz źle |
+| **Zwiad MĄD** | Ujawniasz istotne szczegóły | Nie możesz nic zobaczyć wyraźnie, wzniecasz fałszywy alarm |
+| **Zastraszenie CHA** | Naginasz postać do swojej woli | Twój głos nikogo nie przekonuje, jest piskliwy |
 
-## RODZAJE PRÓB
+# RODZAJE PRÓB
 
-### PRÓBY
+## PRÓBY
 
-Próby są rzutami po których, jeśli się udadzą, następują rzuty WYSIŁKU. Wszystko co nie może być po prostu zakończone sukcesem lub porażką jest raczej PRÓBĄ nie Testem. Najbardziej znany typ WYSIŁKU to WYSIŁEK ZBROJNY, który nazywany jest Obrażeniami w większości gier. Każdy gracz wie jak zadawać obrażenia: rzucasz atak, a następnie kulasz kostką by zadać Obrażenia! Próby i Wysiłek są tym samym, z tym że dotyczą wszystkich rodzajów zadań, nie tylko zadawania Obrażeń. 
+Próby są rzutami po których, jeśli się udadzą, następują rzuty WYSIŁKU. Wszystko, co nie może być po prostu zakończone sukcesem lub porażką, jest raczej PRÓBĄ nie Testem. Najbardziej znany typ WYSIŁKU to WYSIŁEK ZBROJNY, który nazywany jest Obrażeniami w większości gier. Każdy gracz wie jak zadawać obrażenia: rzucasz atak, a następnie kulasz kostką, by zadać Obrażenia! Próby i Wysiłek są tym samym, z tym że dotyczą wszystkich rodzajów zadań, nie tylko zadawania Obrażeń. 
 
-Podczas Prób używamy k20 oraz STATYSTYK pasujących do sytuacji. ŁUPY również mogą wspomóc rzuty Prób lub WYSIŁKU. Zauważ, że poniżej typ WISŁKU nie jest wypisany. To dlatego, iż ‘Atak Wręcz’ może odbywać się Wysiłiem Broni (k6) lub Wysiłkiem Magii (k8) zależnie od tego jaka broń jest w użyciu. Nieuzbrojony Atak Wręcz oznacza zwyczajnie Bazowy Wysiłek (k4).  To samo tyczy się wszystkich Prób. Jeśli noszę Magiczne Buty Wspinaczki i rzucam Próbę wspięcia się na skalisty klif, Wysiłek będzie Magiczny! Jeśli klif ma 1 SERCE, wtedy potrzebuję 10 punktów WYSIŁKU by pokonać go i osiągnąć szczyt! Osiągnięcie tej 10 używajć k8 jest zdecydowanie szybsze i łatwiejsze niż przy zwykłych butach, które oznaczały by Bazowy Wysiłek, i tak dalej!
+Podczas Prób używamy k20 oraz STATYSTYK pasujących do sytuacji. ŁUPY również mogą wspomóc rzuty Prób lub WYSIŁKU. Zauważ, że poniżej typ WYSIŁKU nie jest wypisany. To dlatego, iż ‘Atak Wręcz’ może odbywać się Wysiłkiem Broni (k6) lub Wysiłkiem Magii (k8) zależnie od tego, jaka broń jest w użyciu. Nieuzbrojony Atak Wręcz oznacza zwyczajnie Bazowy Wysiłek (k4).  To samo tyczy się wszystkich Prób. Jeśli noszę Magiczne Buty Wspinaczki i rzucam Próbę wspięcia się na skalisty klif, Wysiłek będzie Magiczny! Jeśli klif ma 1 SERCE, wtedy potrzebuję 10 punktów WYSIŁKU, by pokonać go i osiągnąć szczyt! Osiągnięcie tej 10, używając k8 jest zdecydowanie szybsze i łatwiejsze niż przy zwykłych butach, które oznaczałyby Bazowy Wysiłek, i tak dalej!
 
-### STANDARDOWE PRÓBY
+## STANDARDOWE PRÓBY
 
-Siła: Atak na wroga używając broni wręcz, Wygięcie prentów więzienia, Przebicie się przez mur, Wymuszenie zamknięcia śluzy, Ścięcie drzewa, Wspięcie się po linie, Otwarcie skrzyni  
+**Siła:** Atak na wroga używając broni wręcz, Wygięcie prętów więzienia, Przebicie się przez mur, Wymuszenie zamknięcia śluzy, Ścięcie drzewa, Wspięcie się po linie, Otwarcie skrzyni  
 
-Zręczność: Atak na cel używając broni dystansowej, Wspinaczka po linie, Naprawa kół zębatych w maszynie zegarowej, Ostrożne podnoszenie zabezpieczonej skrzyni  
+**Zręczność:** Atak na cel używając broni dystansowej, Wspinaczka po linie, Naprawa kół zębatych w maszynie zegarowej, Ostrożne podnoszenie zabezpieczonej skrzyni  
 
-Kondycja: Kon jest częściej używana w Testach i reakcjach na otoczenie niż podczas faktycznych Prób  
+**Kondycja:** Kondycja jest częściej używana w Testach i reakcjach na otoczenie niż podczas faktycznych Prób  
 
-Inteligencja: Rzucanie zaklęcia, Odczytywanie zapisków, Złamanie zabezpieczeń skrzyni, Nauka nowego zaklęcia, Nauka pilotarzu statku gwiezdnego, Odnalezienie sekretnej lokalizacji na mapie  
+**Inteligencja:** Rzucanie zaklęcia, Odczytywanie zapisków, Złamanie zabezpieczeń skrzyni, Nauka nowego zaklęcia, Nauka pilotażu statku gwiezdnego, Odnalezienie sekretnej lokalizacji na mapie  
 
-Mądrość: Użycie boskiej lub naturalnej mocy, Tresura zwierząt, Leczenie ran sojuszników, Tropienie dzikich zwierząt  
+**Mądrość:** Użycie boskiej lub naturalnej mocy, Tresura zwierząt, Leczenie ran sojuszników, Tropienie dzikich zwierząt  
 
-Charyzma: Zdobycie zaufania batalionu, Natchnięcie sojuszników wolą walki, Zasianie strachu w szeregach wroga,  Zaprzyjaźnienie się z nowo poznaną postacią  
+**Charyzma:** Zdobycie zaufania batalionu, Natchnienie sojuszników wolą walki, Zasianie strachu w szeregach wroga,  Zaprzyjaźnienie się z nowo poznaną postacią  
 
-Jeff: Podchodzę do ołtarza i próbuję odczytać dziwne znaki.  
+*Jeff: Podchodzę do ołtarza i próbuję odczytać dziwne znaki.  
 MG: Jest ciemno i mrok jest tutaj gęsty. Cel wynosi teraz 12. Rzut + INT.  
 Jeff: Ok, na mojej k20 mam 11, razem z moją INT +2, 13! Cudem, ale udało się.  
 MG: Zaczynasz odczytywać runiczne słowa, lecz jest ich tam wiele. Rzuć Wysiłek.  
 Jeff: Niestety nie mam żadnego magicznego wsparcia tutaj, więc Bazowy Wysiłek. Mam +1 przy nim. Wypadło 3, więc razem 4 Wysiłku nad tym tłumaczeniem.
 MG: Udało ci się wyłuskać kilka słów, w tym ‘Król’ i ‘Demon’, lecz nawet nie jesteś w połowie tej inskrypcji. Reyna, co zamierzasz zrobić?  
 Amanda: Zobaczę, czy mogę mu pomóc. Ten sam rzut. BUM! Naturalna 20! Tak więc k4 z mój bazowy wkład, co daje 3 i k12 z okazji krytyka, co daje 11!  
-MG: 18 w sumie! A to było zadanie tylko na 1 SERDUCHO. Pracując razem udaje się wam odszyfrować inskrypcję. Głosi ona: Ten, kto odczyta poemat Króla Demonów umrze śmiercią bełkotu!  
+MG: 18 w sumie! A to było zadanie tylko na 1 SERDUCHO. Pracując razem, udaje się wam odszyfrować inskrypcję. Głosi ona: Ten, kto odczyta poemat Króla Demonów, umrze śmiercią bełkotu!*
 
-## ODLEGŁOŚĆ
+# ODLEGŁOŚĆ
 
-### PRZEMIESZCZANIE
-Gdzie jesteś podczas bitwy może stanowić o zwięcstwie lub porażce. Czy stoisz w rozszerzającym się wirze energii, uwięziony tam złe moce, czy przebiegasz przez komnatę z mieczem mieniącym się od gniewu? Czy jesteś zwarty w walce z potężną, opancerzoną bestią, czy może szyjesz strzałami bezpiecznie ukryty w cieniu? Gdy chcesz się dostać w wybrane miejsce, wtedy z odsieczą przychodzi prosty system przemieszczania ICRPG.
+## PRZEMIESZCZANIE
+Gdzie jesteś podczas bitwy, może stanowić o zwycięstwie lub porażce. Czy stoisz w rozszerzającym się wirze energii, uwięziony tam złe moce, czy przebiegasz przez komnatę z mieczem mieniącym się od gniewu? Czy jesteś zwarty w walce z potężną, opancerzoną bestią, czy może szyjesz strzałami bezpiecznie ukryty w cieniu? Gdy chcesz się dostać w wybrane miejsce, wtedy z odsieczą przychodzi prosty system przemieszczania ICRPG.
 
-Każdy gracz rpg chociaż raz zapytał ‘jak daleko mogę się ruszyć w mojej turze?’ Z zasad powyżej wiesz tylko że możesz 1: Ruszyć się DALEKO albo 2: Ruszyć się BLISKO i wykonać akcję. Więc, czym są BLISKO i DALEKO w zasadach gry?
-* DALEKO to jest około 50 stóp. Kilka sekund biegu po płaskim terenie. DALEKI cel może być trudny do trafienia, albo może być zbyt daleko by rzucić określone zaklęcia. Wszystko co jest dalej niż długość 1 banana liczy się jako DALEKIE. 1 banan, DALEKO, jest to dystans o jaki postać może przesunąć się w turze.
-* BLISKO jest o kilka kroków. Jest wystarczająco blisko by dźgnąć włucznią, ale nie dość by zaatakować sztyletem. To zasięg łatwego strzału, ale nie jest to coś w zasięgu ręki.   
-* BEZPOŚREDNIO / OBOK jest na wyciągnięcie ręki, pod nosem
+Każdy gracz rpg chociaż raz zapytał ‘jak daleko mogę się ruszyć w mojej turze?’ Z zasad powyżej wynika tylko, iż możesz 1: Ruszyć się DALEKO albo 2: Ruszyć się BLISKO i wykonać akcję. Więc, czym są BLISKO i DALEKO w zasadach gry?
+* **DALEKO** to jest około 50 stóp. Kilka sekund biegu po płaskim terenie. DALEKI cel może być trudny do trafienia albo może być zbyt daleko by rzucić określone zaklęcia. Wszystko, co jest dalej niż długość 1 banana, liczy się jako DALEKIE. 1 banan, DALEKO, jest to dystans, o jaki postać może przesunąć się w turze.
+* **BLISKO** jest o kilka kroków. Jest wystarczająco blisko by dźgnąć włócznią, ale nie dość by zaatakować sztyletem. To zasięg łatwego strzału, ale nie jest to coś w zasięgu ręki.   
+* **BEZPOŚREDNIO / OBOK** jest na wyciągnięcie ręki, pod nosem
 
-Jeśli odgrywasz ‘Teatr Wyobraźni’, jest to wszystko co potrzebujesz by zacząć! Jeśli grasz na mapie lub planszy używając figurek, wtedy wystarczy użyć bazującego na bananach systemu odlegości.
+Jeśli odgrywasz ‘Teatr Wyobraźni’, jest to wszystko, czego potrzebujesz, by zacząć! Jeśli grasz na mapie lub planszy, używając figurek, wtedy wystarczy użyć bazującego na bananach systemu odległości.
 
-### KIEDY ODLEGŁOŚĆ MA ZNACZENIE
-Terminy BLISKO, DALEKO i BEZPOŚREDNIO dadzą ci jasność i przejżystość co do tego kto walczy z kim, co możesz zrobić i czego nie możesz oraz jak wydobyć najwięcej ze swoich umiejętności i ŁUPÓW. Poniżej znajduje się kilka przykładów momentów w grze kiedy odległość ma znacznie i liczy się najbardziej.
+## KIEDY ODLEGŁOŚĆ MA ZNACZENIE
+Terminy BLISKO, DALEKO i BEZPOŚREDNIO dadzą ci jasność i przejrzystość co do tego, kto walczy z kim, co możesz zrobić i czego nie możesz oraz jak wydobyć najwięcej ze swoich umiejętności i ŁUPÓW. Poniżej znajduje się kilka przykładów momentów w grze, kiedy odległość ma znacznie i liczy się najbardziej.
 
-ZASIĘG ATAKU: Czy jestem dość blisko a może zbyt daleko by zaatakować? Czy atak będzie łatwy, czy trudny ze względu na odległość? Czy mogę zbliżyć się nie ryzykując obrażeń?
+**ZASIĘG ATAKU**: Czy jestem dość blisko, a może zbyt daleko, by zaatakować? Czy atak będzie łatwy, czy trudny ze względu na odległość? Czy mogę zbliżyć się, nie ryzykując obrażeń?
 
-OBSZAR EFEKTU: Wybuchy, sieci i chmury kwasu, wszystkie one zajmują pewien obszar, zawczyaj BLISKO swojego źródła. Utrzymanie odległości od nich może oznaczać całkowite bezpieczeństwo.
+**OBSZAR RAŻENIA**: Wybuchy, sieci i chmury kwasu, wszystkie one zajmują pewien obszar, zazwyczaj BLISKO swojego źródła. Utrzymanie odległości od nich może oznaczać całkowite bezpieczeństwo.
 
-PRZECHODZENIE: Zatrzaskujące się drzwi, kurczący się i znikający portal, pułapka, która została uruchomina i teraz musisz szybko się wydostać. Jeśli twój cel jest dalej niż ‘DALEKO’ wtedy nie możesz dostać się do niego w jednej turze. Umiejętne podejmowanie decyzji kiedy ruszyć biegiem a kiedy iść spokojnie to potężna umiejętność badaczy podziemi. Zbyt wielu bohaterów zginęło tylko dlatego, że znaleźli się kilka cali od swego ocalenia.
+**PRZECHODZENIE**: Zatrzaskujące się drzwi, kurczący się i znikający portal, pułapka, która została uruchomiona i teraz musisz szybko się wydostać. Jeśli twój cel jest dalej niż ‘DALEKO’, wtedy nie możesz dostać się do niego w jednej turze. Umiejętne podejmowanie decyzji, kiedy ruszyć biegiem, a kiedy iść spokojnie to potężna umiejętność badaczy podziemi. Zbyt wielu bohaterów zginęło tylko dlatego, że znaleźli się kilka cali od swego ocalenia.
 
-UZYSKIWANIE PRZEWAGI: Sprytny wojownik potrafi uczyć broni dystansowej by uniknąć zabójczych bezpośrednich starć z wrogiem lub przeciwdziałać właśnie takiej taktyce przeciwników.
+**UZYSKIWANIE PRZEWAGI**: Sprytny wojownik potrafi uczyć broni dystansowej, by uniknąć zabójczych bezpośrednich starć z wrogiem lub przeciwdziałać właśnie takiej taktyce przeciwników.
 
-NAGINANIE ZASAD: Wiele z tego co czyni ŁUPY i rozwój postaci tak niezwykłym jest to jak zwiększają one umiejętności przebywania dystansu w coraz bardziej zaskakującym czasie, latając albo nawet teleportując się. Te zdolności, w połączeniu z wyczuciem taktyki, tworzą niezastąpionego wojownika.
+**NAGINANIE ZASAD**: Wiele z tego, co czyni ŁUPY i rozwój postaci tak niezwykłe jest to, jak zwiększają one umiejętności przebywania dystansu w coraz krótszym czasie, latając albo nawet teleportując się. Te zdolności, w połączeniu z wyczuciem taktyki, tworzą niezastąpionego wojownika.
 
-BRONIE: Sztylet czy miecz działają tylko kiedy jesteś BEZPOŚREDNIO przy wrogu, włucznia nadaje się do walki z wrogiem, który jest BLISKO i tylko łuki albo broń miotana pozwalają na atak kiedy przeciwnik jest DALEKO.
+**BRONIE**: Sztylet czy miecz działają tylko, kiedy jesteś BEZPOŚREDNIO przy wrogu, włócznia nadaje się do walki z wrogiem, który jest BLISKO i tylko łuki albo broń miotana pozwalają na atak, kiedy przeciwnik jest DALEKO.
 
-KOMUNIKACJA Z INNYMI BOHATERAMI: Sojusznicy znajdujący się w BEZPOŚREDNIEJ odległości od postaci mogą szeptać między sobą, kiedy znajdują się BLISKO siebie muszą mówić normalnym głosem, a kiedy są DALEKO od siebie muszą krzyczeć, by się usłyszeć. Korzystajcie z tych zasad odpowiednio zachowując ciszę między postaci, czy dzieląc się planami bitwy.
+**KOMUNIKACJA Z INNYMI BOHATERAMI**: Sojusznicy znajdujący się w BEZPOŚREDNIEJ odległości od postaci mogą szeptać między sobą, kiedy znajdują się BLISKO siebie, muszą mówić normalnym głosem, a kiedy są DALEKO od siebie, muszą krzyczeć, by się usłyszeć. Korzystajcie z tych zasad, odpowiednio zachowując ciszę między postaci, czy dzieląc się planami bitwy.
 
-## CZAS
+# CZAS
 
-### CIĄGŁY CZAS
+## CIĄGŁY CZAS
 
-W wielu grach RPG występują dwa rodzaje czasu, czas walki, z bardzo szczegółową rozgrywką i czas bez walki, odpoczynku, czas wolny, który jest bardzo luźno traktowany. Nie w ICRPG! ICRPG jest ZAWSZE w turach, nie ważne czy gracze podróżują, tworzą przedmioty, otwierają skrzynie, walczą z potworami, czy się zakochują. Ramy czasowe są elastczne, zależne od narracji i ciągłe. Dzięki temu możemy uniknąć popadnięcia w ten dziwny marazm pomiędzy bitwami, kiedy dalszy pobyt przy stole może wydwać się czasem bezcelowy. Po prostu nadal przechodźcie od gracza do gracza, zgodnie z ruchem zegara, nie ważne w jakim przedziale czasu się znajdujecie. 
+W wielu grach RPG występują dwa rodzaje czasu, czas walki, z bardzo szczegółową rozgrywką i czas bez walki, odpoczynku, czas wolny, który jest bardzo luźno traktowany. Nie w ICRPG! ICRPG jest ZAWSZE w turach, nieważne, czy gracze podróżują, tworzą przedmioty, otwierają skrzynie, walczą z potworami, czy się zakochują. Ramy czasowe są elastyczne, zależne od narracji i ciągłe. Dzięki temu możemy uniknąć popadnięcia w ten dziwny marazm pomiędzy bitwami, kiedy dalszy pobyt przy stole może wydawać się czasem bezcelowy. Po prostu nadal przechodźcie od gracza do gracza, zgodnie z ruchem zegara, nieważne, w jakim przedziale czasu się znajdujecie. 
 
-Są trzy zakresu czasu używane w ICRPG: Momenty, Godziny i Dni. Odpowiadają one trzem trybą gry, które zazwyczaj przydażają się w grze RPG: walce, odpoczynkowi i leczeniu oraz przestojom lub fragmentom opowieści.
+Są trzy zakresu czasu używane w ICRPG: Momenty, Godziny i Dni. Odpowiadają one trzem trybą gry, które zazwyczaj przydarzają się w grze RPG: walce, odpoczynkowi i leczeniu oraz przestojom lub fragmentom opowieści.
 
-MOMENTY: Podczas walki, każdy gracz wykonuje swoje tury, a każda z nich reprezentuje kilka sekund heroicznego wysiłku i napięcia. Poziom szczegółowości jest maksymalny by nadać walką intensywności, na którą zasługują. Dlatego też opisując swoją Akcję podczas Tury, weź pod uwagę rzeczy, które mogą zostać wykonane w ciągu 5 do 10 sekund. 
+**MOMENTY:** Podczas walki, każdy gracz wykonuje swoje tury, a każda z nich reprezentuje kilka sekund heroicznego wysiłku i napięcia. Poziom szczegółowości jest maksymalny, by nadać walką intensywności, na którą zasługują. Dlatego też opisując swoją Akcję podczas Tury, weź pod uwagę rzeczy, które mogą zostać wykonane w ciągu 5 do 10 sekund. 
 
 Przykłady Akcji wykonanych w Momentach: Cios mieczem we wroga, Wyważenie drzwi, Przebiegnięcie przez pole bitwy, Podpalenie powozu, Przeczytanie starożytnego zaklęcia, Aktywowanie hipernapędu. 
 
-GODZINY: Pomiędzy starciami, herosi dają odpocząc swym kością, liżą rany, zbierają się do drogi, albo budują umocnienia przed nadchodzącym atakiem. Tura każdego gracza trwa około 1-3 godzin, więc należy dostosować opisy odpowiedniego do tego czasu. Podróżnicy siedziący ‘wokół trzaskającego ogniska gdzieś pośród głuszy’ to jest klasyczny przykład tego rodzaju czasu. 
+**GODZINY:** Pomiędzy starciami, herosi dają odpocząć swym kością, liżą rany, zbierają się do drogi, albo budują umocnienia przed nadchodzącym atakiem. Tura każdego gracza trwa około 1-3 godzin, więc należy dostosować opisy odpowiedniego do tego czasu. Podróżnicy siedzący ‘wokół trzaskającego ogniska gdzieś pośród głuszy’ to jest klasyczny przykład tego rodzaju czasu. 
 
 Przykłady rzeczy wykonywanych w Godzinach: Naprawa wgniecionego pancerza, Odzyskanie SERC straconych w bitwie, Opowiadanie heroicznych eposów, Stworzenie zestawu strzał, Odczytanie tajemniczego zwoju, Napełnienie hipernapędu.  
 
-DNI: Pomiędzy przygodami, bohaterowie zwykli zawijać do miast, czy strażnić lub podróżować statkami. Tworzą nowy ekwipunek, naprawiają uszkodzony, targują się z kupcami i zaciągają języka w lokalnej tawernie. Tego typu akcje rozciągają się na 1-5 dni każda. Tylko dlatego że czas uległ rozciągnięciu nie oznacza to, że gra może popaść w chaos! Tury postępują wokół stołu tak jak zawsze, każdy gracz używa swoich kilku dni w sposób jaki zadeklarował, wykonując odpowiednie rzuty. 
+**DNI:** Pomiędzy przygodami, bohaterowie zwykli zawijać do miast, czy strażnic lub podróżować statkami. Tworzą nowy ekwipunek, naprawiają uszkodzony, targują się z kupcami i zaciągają języka w lokalnej tawernie. Tego typu akcje rozciągają się na 1-5 dni każda. Tylko dlatego, że czas uległ rozciągnięciu, nie oznacza to, iż gra może popaść w chaos! Tury postępują wokół stołu tak jak zawsze, każdy gracz używa swoich kilku dni w sposób, jaki zadeklarował, wykonując odpowiednie rzuty. 
 
-Przykłady Akcji, które zajmują Dni: Budowa nowego skrzydła zamku, Tworzenie magicznego przedmiotu, Podróż do odległego landu, Trening armi, Odszukanie między-wymiarowaych wrót, Budowa nowego hipernapędu.
+Przykłady Akcji, które zajmują Dni: Budowa nowego skrzydła zamku, Tworzenie magicznego przedmiotu, Podróż do odległego landu, Trening armii, Odszukanie międzywymiarowych wrót, Budowa nowego hipernapędu.
 
-## ZDOBYWANIE ŁUPÓW
+# ZDOBYWANIE ŁUPÓW
 
-### POSZUKIWANIE SKARBÓW
+## POSZUKIWANIE SKARBÓW
 
-Ach, to słodkie uczucie kiedy udaje się znaleźć epicki ŁUP. Nie zaprzeczaj mu, pozwól by chciwość płynęła przez ciebie. Skarb może napędzić najbardziej wysublimowaną grę i odgrywanie postaci. To nie jest zła rzecz! Zwłaszcza w ICRPG, ŁUP jest DROGĄ rozwoju postaci, więc idź po niego!
+Ach, to słodkie uczucie, kiedy udaje się znaleźć epicki ŁUP. Nie zaprzeczaj mu, pozwól, by chciwość popłynęła przez ciebie. Skarb może napędzić najbardziej wysublimowaną grę i odgrywanie postaci. To nie jest zła rzecz! Zwłaszcza w ICRPG, ŁUP jest DROGĄ rozwoju postaci, więc idź po niego!
 
 ## SPOSOBY ZDOBYWANIA ŁUPÓW
 
 ### NAGRODA ZA OSIĄGNIĘCIA MILOWE
 
-Osiągnięcia Milowe są wypisane są przy Klasie postaci, jest to specficzny sposób ewolucji bohatera. Twój MG może ogłosić “... i z tym zwycięstwem, możecie teraz wszyscy wybrać Nagrodę za Osiągnięcie Milowe dla waszej Klasy!” MG może też po prostu zdecydować o nagrodzie bazując na waszych akcjach. To jest sposób ‘podnoszenia poziomu’ bohaterów w ICRPG. 
+Osiągnięcia Milowe są wypisane przy Klasie postaci, jest to specyficzny sposób ewolucji bohatera. Twój MG może ogłosić “... i z tym zwycięstwem, możecie teraz wszyscy wybrać Nagrodę za Osiągnięcie Milowe dla waszej Klasy!” MG może też po prostu zdecydować o nagrodzie, bazując na waszych akcjach. To jest sposób ‘podnoszenia poziomu’ bohaterów w ICRPG. 
 
 ### ŁUPIENIE POLEGŁYCH WROGÓW
 
@@ -250,96 +258,96 @@ Jako ogólną zasadę przyjmuje się, że z każdym SERCEM, które posiada wróg
 
 ### ZNALEZIONE NIE KRADZIONE
 
-Świat jest wielkim miejscem, i wiele kosztowności zostało porzuconych, ukrytych lub zamkniętych na przechowanie. Te są owocem marzeń poszukiwaczy. Podobnie jak ŁUP porzucony przez wroga, te mogą być zdobyte natychmiastowo albo w formie SKRZYNI, zależnie od tego w jaki sposó zostały odkryte.
+Świat jest wielkim miejscem, i wiele kosztowności zostało porzuconych, ukrytych lub zamkniętych na przechowanie. Te są owocem marzeń poszukiwaczy. Podobnie jak ŁUP porzucony przez wroga, te mogą być zdobyte natychmiastowo albo w formie SKRZYNI, zależnie od tego, w jaki sposó zostały odkryte.
 
 ### UPRZEJMY PODARUNEK
 
-Podczas żywota herosów zdażają się momenty uznania, które zmieniają świat. Król obdarza swym dobrodziejstwem, bogowie materializują magiczny podarunek, lub dziwna obca rasa oferuje swoje wsparcie z pomocą potężnego reliktu. Tego typu ŁUPY nie są określane losowo, lecz zaprojektowane przez MG i dostępne tylko dla wybrańców. Zapracowałeś na nie.
+Podczas żywota herosów zdarzają się momenty uznania, które zmieniają świat. Król obdarza swym dobrodziejstwem, bogowie materializują magiczny podarunek, lub dziwna obca rasa oferuje swoje wsparcie z pomocą potężnego reliktu. Tego typu ŁUPY nie są określane losowo, lecz zaprojektowane przez MG i dostępne tylko dla wybrańców. Zapracowałeś na nie.
 
 ## SKRZYNIE
 
-W większości przypadków, ŁUP, którego szukasz, będzie zamknięty w SKRZYNI. To nie oznacza gigantycznego pirackiego kufra, to może znaczyć małą skrzyneczkę lub zbrojoną żelastwem pojemnik na broń. Tak czy siak, będziesz musiał podważyć, roztrzaskać, rozbroić lub zgrabnie wyłączyć ją by dostać się do zawartości. Czas na jakieś rzuty!
+W większości przypadków ŁUP, którego szukasz, będzie zamknięty w SKRZYNI. To nie oznacza gigantycznego pirackiego kufra, to może znaczyć małą skrzyneczkę lub zbrojoną żelastwem pojemnik na broń. Tak czy siak, będziesz musiał podważyć, roztrzaskać, rozbroić lub zgrabnie wyłączyć ją, by dostać się do zawartości. Czas na jakieś rzuty!
 
 ### OTWIERANIE SKRZYNI
 
-Tak jak w pozostałch przypadkach, będziesz musiał zdać Próbę, a następnie wykonać rzut Wysiłku by otworzyć nową zamkniętą skrzynię. Są trzy możliwe wersję tego procesu.
+Tak jak w pozostałych przypadkach, będziesz musiał zdać Próbę, a następnie wykonać rzut Wysiłku, by otworzyć nową zamkniętą skrzynię. Są trzy możliwe wersje tego procesu.
 
 ### PROSTA SKRZYNIA
 
-Użyj jednego z ZRE, SI lub INT (użyj atrybutu, który jest najlepszy dla ciebie) by pokonać poziom ŁATWEGO rzut dla obecnego Celu. Skrzynia otwiera się z łatwością. Następnie rzuć 1k100 by określić ŁUP, twój MG powie ci co znalazłeś.
+Użyj jednego z ZRE, SI lub INT (użyj atrybutu, który jest najlepszy dla ciebie), by pokonać poziom ŁATWEGO rzut dla obecnego Celu. Skrzynia otwiera się z łatwością. Następnie rzuć 1k100 by określić ŁUP, twój MG powie ci, co znalazłeś.
  
 ### STANDARDOWA SKRZYNIA
 
-Użyj ZRE, SI lub INT (użyj atrybutu, który jest najlepszy dla ciebie) by pokonać aktualny Cel. Skrzynia stanowi wyzwanie z 1 SERCEM. Użyj BAZOWEGO WYSIŁKU by zakończyć robotę, chyba, że posiadasz coś co może sprawić, że użyjesz magi w tym procesie. Pamiętaj, jeśli rzuciłeś naturalną 20 podczas Próby otwarcia jej, dodaj k12 do swojego k4 Bazowego Wysiłu. Otworzysz ją w mgnieniu oka! 
+Użyj ZRE, SI lub INT (użyj atrybutu, który jest najlepszy dla ciebie), by pokonać aktualny Cel. Skrzynia stanowi wyzwanie z 1 SERCEM. Użyj BAZOWEGO WYSIŁKU, by zakończyć robotę, chyba, że posiadasz coś, co może sprawić, że użyjesz magi w tym procesie. Pamiętaj, jeśli rzuciłeś naturalną 20 podczas Próby otwarcia jej, dodaj k12 do swojego k4 Bazowego Wysiłku. Otworzysz ją w mgnieniu oka! 
 
 ### POTĘŻNA SKRZYNIA
 
-Te są rzadkie, wzmocnione szkatuły zbudowane są by przetrwać. Niektórą są nawet zbyt ciężkie by je podnieść. Użyj ZRE, SI lub INT  (użyj atrybutu, który jest najlepszy dla ciebie)  by pokonać TRUDNY rzut na obecny Cel. Te skrzynie posiadają 2 SERCA do pokonania.
+Te są rzadkie, wzmocnione szkatuły zbudowane są, by przetrwać. Niektórą są nawet zbyt ciężkie, by je podnieść. Użyj ZRE, SI lub INT  (użyj atrybutu, który jest najlepszy dla ciebie), by pokonać TRUDNY rzut na obecny Cel. Te skrzynie posiadają 2 SERCA do pokonania.
 
-## TYPY ŁUPÓW
+# TYPY ŁUPÓW
 
 ### CZAS JEST PO TWOJEJ STRONIE
 Kiedy pracujesz w skali GODZIN, wykonując rzuty Próby i Wysiłku nad otwarciem Skrzyni, wykonaj do 3 rzutów jako jedną turę. W skali czasu DNI, każda Skrzynia w twoim posiadaniu może być otwarta od razu i można przejść do rzucania jej zawartości.
 
-### TYPY ŁUPÓW
+## TYPY ŁUPÓW
 Jedzenie, Sprzęt i Zaklęcia. Każdy typ ma swoje własne zastosowania, cuda i ograniczenia.
 
 ### JEDZENIE
-To rozciąga się od leczniczych jagód po dymiący ciepły gar. ŁUP w postaci Jedzenia posiada liczbę użyć. Z każdą zjedzoną porcją liczba ta spada. Kiedy osiąga zero, Jedzenie przepada. Porcje jedzenie nie wymagają wysiłku do noszenia i można je przekać sojusznikom w zerowym czasie. Zjedzenie porcji także zajmuje tylko kilka sekund, więc nie pożre ono twojej tury.
+To rozciąga się od leczniczych jagód po dymiący ciepły gar. ŁUP w postaci Jedzenia posiada liczbę porcji. Z każdą zjedzoną porcją ich liczba spada. Kiedy osiąga zero, Jedzenie przepada. Porcje jedzenie nie wymagają wysiłku do noszenia i można je przekazać sojusznikom w zerowym czasie. Zjedzenie porcji także zajmuje tylko kilka sekund, więc nie pożre ono twojej tury.
 
 ### SPRZĘT 
-Najpopularniejszym rodzajem ŁUPU jest ekwipunek, pancerze, ubrania, bronie i temu podobne rzeczy. Są to zazwyczaj proste obiekty, ale niektóre wymagają umiejętności posługiwania się lub noszenia. To wymaganie przybiera formę Testu, który musi zostać wykonany by zacząć używać przedmiotu. Sprzęt może zostać zniszczony, stracony, przehandlowany lub przekazany... chyba, że jest przklęty... ale lepiej nie myśleć o takich rzeczach.
+Najpopularniejszym rodzajem ŁUPU jest ekwipunek, pancerze, ubrania, bronie i temu podobne rzeczy. Są to zazwyczaj proste obiekty, ale niektóre wymagają umiejętności posługiwania się lub noszenia. To wymaganie przybiera formę Testu, który musi zostać wykonany, by zacząć używać przedmiotu. Sprzęt może zostać zniszczony, stracony, przehandlowany lub przekazany... chyba że jest przeklęty... ale lepiej nie myśleć o takich rzeczach.
 
 ### ZAKLĘCIA I MOCE
-Zaklęcia przyjmują rozmaite formy, takie jak antyczne zwoje, boskie wizje czy mikrochipy obcych. Ten kto nauczył się Zaklęcia ma je przypisane do siebie i nie może nim handlować czy przekazać.
+Zaklęcia przyjmują rozmaite formy, takie jak antyczne zwoje, boskie wizje czy mikrochipy obcych. Ten, kto nauczył się Zaklęcia, ma je przypisane do siebie i nie może nim handlować czy przekazać.
 
-Gdzie jest cały ŁUP? Szybki start zawiera BARDZO MAŁO ŁUPÓW. ICRPG CORE zawiera ponad 500 sztuk unikalnych ŁUPÓW, rozdzielonych w ponad 5 tabelach k100!! Czasem, najlepszą częścią sesji jest oglądanie co oferują te przewrotne tabelki zaoferują graczom tym razem.
+*Gdzie jest cały ŁUP? Szybki start zawiera BARDZO MAŁO ŁUPÓW. ICRPG CORE zawiera ponad 500 sztuk unikalnych ŁUPÓW, rozdzielonych w ponad 5 tabelach k100!! Czasem, najlepszą częścią sesji jest oglądanie, co te przewrotne tabelki zaoferują graczom tym razem.*
 
-## ŚMIERĆ I UMIERANIE
+# ŚMIERĆ I UMIERANIE
 
-### CHŁOPAKI, MYŚLĘ, ŻE NIE ŻYJĘ
+## CHŁOPAKI, MYŚLĘ, ŻE NIE ŻYJĘ
 
 Oblałeś Test, twój Pancerz jest tostem i spadłeś do 1 Punktu Życia na ostatnią godzinę. Bestia Umysłu biczuje cię, zadając 12 Magicznych Obrażeń prosto w twarz. Pokój oddala się w tył i ogarnia cię ciemność. Ty, mój dobry graczu, UMIERASZ. Każda gra przygodowa musi zmierzyć się z zasadami dotyczącymi śmierci. To jest jedna z najbardziej innowacyjnych i jednocześnie przerażających mechanik ICRPG. Spójrz na Kartę Postaci. W rogu zauważysz małą Czaszkę. Tak skromną, tak potężną.
 
-Poznaj dobrze tą prostą małą czaszkę, pewnego dnia twoje życie dosłonie będzie od niej zależało. Oto jak to działa.
+Poznaj dobrze tą prostą małą czaszkę, pewnego dnia twoje życie dosłownie będzie od niej zależało. Oto jak to działa.
 
 1: Kiedy twoje Punkty Życia osiągną Zero, oznacza to, że ‘Umierasz’. Czyli jesteś nieprzytomny, wykrwawiasz się i kończy się twój czas.
 
-2: W swojej następnej turze po znokautowaniu, Rzuć k6 (widzisz tą małą cyfrę 6 w Kwadracie koło Czaszki? To twój przypominacz). W takiej liczbie tur staniesz się nieodwracalnie zimnym trupem, MARTWY. Módl się by nie wypadło 1. Użyj k6 by odliczać kolejne tury i zapisz obecny numer w miejscu ‘do śmierci’.
+2: W swojej następnej turze po znokautowaniu, Rzuć k6 (widzisz tę małą cyfrę 6 w Kwadracie koło Czaszki? To twój przypominacz). W takiej liczbie tur staniesz się nieodwracalnie zimnym trupem, MARTWY. Módl się, by nie wypadło 1. Użyj k6, by odliczać kolejne tury i zapisz obecny numer w miejscu ‘do śmierci’.
 
 3: W każdej turze umierania, rzuć k20. Jeśli wypadnie naturalna 20, powstań cudownie do żywych z 1 Punktem Życia. To jednak była tylko powierzchowna rana.
 
-4: By zatrzymać licznik Umierania, sojusznik musi przybyć z pomocą. To nie wymaga Testu dla nich, po prostu muszą zwyczajnie przybyć, unieść twoją głowę mówiąc “nie umieraj mi tutaj bracie!” Ten prost atak zatrzyma licznik, lecz wciąż pozostaniesz zimny do momentu opatrzenia, użycia magi leczącej lub bezpiecznego odpoczynku.
+4: By zatrzymać licznik Umierania, sojusznik musi przybyć z pomocą. To nie wymaga Testu dla nich, po prostu muszą zwyczajnie przybyć, unieść twoją głowę mówiąc: “nie umieraj mi tutaj bracie!” Ten prost atak zatrzyma licznik, lecz wciąż pozostaniesz zimny do momentu opatrzenia, użycia magi leczącej lub bezpiecznego odpoczynku.
 
 5: Jeśli otrzymasz w jednym uderzeniu tyle obrażeń, że twoje Punkty Życia miałyby spać do -20 albo nawet gorzej, jesteś od razu rozwalony na kawałki. Nie ma nawet szkieletu.
 
-Otrzymuję tak WIELE pytań odnośnie tego jak poradzić sobie ze śmiercią w grze. To nie jest tylko kwestia mechaniki, lecz także ludzkich emocji i dynamiki drużyny. Nie ma łatwych odpowiedzi! Po pierwsze, NIE STOSUJ WYKRĘTÓW. To znaczy, nie pozwól by śmierć była nie jednoznaczna, wątliwa lub ‘warunkowa’. Bądź jasny, zdecydowany. Jeśli gracz umiera zgodnie z zasadami, w pełnej sprawiedliwości, chwale... będzie to zapamiętane jako dobra śmierć. Po drugie, WIEDZ CO STANIE SIĘ DALEJ. Czy sesja jest skończona? Czy zabity gracz będzie musiał opuścić sesję podczas gdy nowy heros pojawi się na niej? Bądź gotów, bądź jasny. Jeśli była to doświadczona postać, rozważ zadanie na jej wskszeszenie. Uczyń to wyrazistym, bądź fair, i pozwól by narodziły się legendy.
+*Otrzymuję tak WIELE pytań odnośnie tego, jak poradzić sobie ze śmiercią w grze. To nie jest tylko kwestia mechaniki, lecz także ludzkich emocji i dynamiki drużyny. Nie ma łatwych odpowiedzi! Po pierwsze, NIE STOSUJ WYKRĘTÓW. To znaczy, nie pozwól, by śmierć była nie jednoznaczna, wątpliwa lub ‘warunkowa’. Bądź jasny, zdecydowany. Jeśli gracz umiera zgodnie z zasadami, w pełnej sprawiedliwości, chwale... będzie to zapamiętane jako dobra śmierć. Po drugie, WIEDZ CO STANIE SIĘ DALEJ. Czy sesja jest skończona? Czy zabity gracz będzie musiał opuścić sesję, podczas gdy nowy heros pojawi się na niej? Bądź gotów, bądź jasny. Jeśli była to doświadczona postać, rozważ zadanie polegające na jej wskrzeszeniu. Uczyń to wyrazistym, bądź fair, i pozwól, by narodziły się legendy.*
+
+# REGENERACJA
 
 ## REGENERACJA
-
-### REGENERACJA
 Za każdym SERCEM, zyskujesz 10 Punktów Życia, które możesz poświęcić w walce, lecz w jaki sposób ZREGENEROWAĆ te stracone Punkty Życia poza stosowaniem bandaży, zaklęciami leczącymi czy nano-naprawami? To proste: Użyj akcji REGENERACJI!
 
-REGENERACJA zachodzi wtedy, kiedy we własnej turze porzucasz wszystko co do tej pory robiłeś i po prostu oddychasz. Odrywasz kawałek koszuli by zatamować krwotok, wypluwasz wybity ząb, albo wylewasz oblewasz twarz zimną wodą. Zależnie od tego w jakim przedziale czasu obecnie się znajdujesz wynik tych działań będzie nieco inny. To jest twoja szansa by odpocząć! Dobrze zapamiętaj te zasady! 
+REGENERACJA zachodzi wtedy, kiedy we własnej turze porzucasz wszystko, co do tej pory robiłeś i po prostu oddychasz. Odrywasz kawałek koszuli, by zatamować krwotok, wypluwasz wybity ząb, albo oblewasz twarz zimną wodą. Zależnie od tego, w jakim przedziale czasu obecnie się znajdujesz, wynik tych działań będzie nieco inny. To jest twoja szansa, by odpocząć! Dobrze zapamiętaj te zasady! 
 
-W UŁAMKACH CHWIL: W czasie walki, masz najmniejsze szanse na Leczenie. Nie ma bezpiecznego schronienia, i tylko sekundy, które możesz poświęcić. Jeśli zużyjesz turę na Regenerację, pokonaj obecny Cel rzutem na KON by odzyskać 1 Punkt Życia. Tak. 1. Dodaj swoją premię z KON do tej liczby! To właśnie ten moment w którym KONDYCJA błyszczy.
+**W UŁAMKACH CHWILI:** W czasie walki, masz najmniejsze szanse na Leczenie. Nie ma bezpiecznego schronienia i masz tylko sekundy, które możesz poświęcić. Jeśli zużyjesz turę na Regenerację, pokonaj obecny Cel rzutem na KON, by odzyskać 1 Punkt Życia. Tak. 1. Dodaj swoją premię z KON do tej liczby! To właśnie ten moment, w którym KONDYCJA błyszczy.
 
-W GODZINACH: Będą pomiędzy starciami, ale TYLKO W BEZPIECZNYM MIEJSCU, użyj swojej tury by odzyskać 1 SERCE. Bez rzutów. Zrozumienie ‘bezpieczenego miejsca’ jest tutaj kluczowe. Czy mokry, ciemny zakamarek podziemi jest ‘bezpieczny’? To pokaże sama przygoda. Jeśli jesteś między starciami i brakuje ci bezpieczengo przyczułka, poświęcenie tury na Leczenie skutkuje odzyskaniem 1 + KON Punktów Życia, bez rzutów. To może wyglądać trywialnie, ale kiedy w między czasie próbujesz naprawić sprzęt, otworzyć skrzynię albo odczytać zaklęcie, ta tura może okazać się kluczowa.
+**W GODZINACH:** Będą pomiędzy starciami, ale TYLKO W BEZPIECZNYM MIEJSCU, użyj swojej tury, by odzyskać 1 SERCE. Bez rzutów. Zrozumienie bezpiecznego miejsca’ jest tutaj kluczowe. Czy mokry, ciemny zakamarek podziemi jest ‘bezpieczny’? To pokaże sama przygoda. Jeśli jesteś między starciami i brakuje ci bezpiecznego przyczółka, poświęcenie tury na Leczenie skutkuje odzyskaniem 1 + KON Punktów Życia, bez rzutów. To może wyglądać trywialnie, ale kiedy w międzyczasie próbujesz naprawić sprzęt, otworzyć skrzynię albo odczytać zaklęcie, ta tura może okazać się kluczowa.
 
-W DNIACH: Jeśli poświęcisz dni przebywając w bezpiecznym miejscu, odzyskujesz wszystkie SERCA, bez rzutu, bez żadnego problemu. Jeśli twoje obrażenia były ciężkie, MG ma prawo naznaczyć cię OKALECZENIEM. Ale to osobna historia...
+**W DNIACH:** Jeśli poświęcisz dni, przebywając w bezpiecznym miejscu, odzyskujesz wszystkie SERCA, bez rzutu, bez żadnego problemu. Jeśli twoje obrażenia były ciężkie, MG ma prawo naznaczyć cię OKALECZENIEM. Ale to osobna historia...
 
-## TWORZENIE POSTACI
+# TWORZENIE POSTACI
 
-### JESTEŚ BOHATEREM
-To jest świat pełen przygód i niebezpieczeństw, zagłady i ocalenia. To jest świat zemsty i zaskoczenia, granic i przyjaciół. To jest twój świat, a to jest czas by go zbadać. Wyobraź sobie siebie jako BOHATERA. Kim jesteś? Jak się nazywasz? Jaki jest twój cel w życiu? Inni BOHATEROWI to twoji PRZYJACIELE. Jak się poznaliście? Jaki sprzęt macie ze sobą? Dlaczego? Sztuka ODGRYWANIA POSTACI jest bardzo prosta: wyobraź sobie, że jesteś tym bohaterem i działaj zgodnie z tym wyobrażeniem. Nie ważne czy myślisz że to możliwe lub nie... odważ się śnić. Po pierwszej poświęć nieco czasu by przygotować KARTĘ POSTACI na przygodę, wykonują poniższe kroki.
+## JESTEŚ BOHATEREM
+To jest świat pełen przygód i niebezpieczeństw, zagłady i ocalenia. To jest świat zemsty i zaskoczenia, granic i przyjaciół. To jest twój świat, a to jest czas, by go zbadać. Wyobraź sobie siebie jako BOHATERA. Kim jesteś? Jak się nazywasz? Jaki jest twój cel w życiu? Inni BOHATEROWI to twoi PRZYJACIELE. Jak się poznaliście? Jaki sprzęt macie ze sobą? Dlaczego? Sztuka ODGRYWANIA POSTACI jest bardzo prosta: wyobraź sobie, że jesteś tym bohaterem i działaj zgodnie z tym wyobrażeniem. Nie ważne, czy myślisz, że to możliwe lub nie... odważ się śnić. Po pierwszej poświęć nieco czasu, by przygotować KARTĘ POSTACI na przygodę, wykonują poniższe kroki.
 
-### WYBIERZ WYGLĄD
-Wybierz albo stwórz szkic albo Miniaturę, która pasuje do twojego BOHATERA. Może być stojąca papierowa miniaturka, obrazek z internetu, albo po prostu twój własny rysunek zrobiony właśnie teraz! Tak czy siak OBRAZ będzie tym co poprowadzi twoją wyobraźnię.
+## WYBIERZ WYGLĄD
+Wybierz albo stwórz, szkic albo Miniaturę, która pasuje do twojego BOHATERA. Może być stojąca papierowa miniaturka, obrazek z internetu, albo po prostu twój własny rysunek zrobiony właśnie teraz! Tak czy siak OBRAZ będzie tym, co poprowadzi twoją wyobraźnię.
 
-### WYMYŚL HISTORIĘ
+## WYMYŚL HISTORIĘ
 Bazując na wyobrażeniu swojego BOHATERA, określ jego imię i krótką biografię. Kim jesteś? Dlaczego ośmieliłeś się wyruszyć w świat? Co kryje się za twoimi czynami? Co cię martwi? Czy jesteś człowiekiem? A może kimś innym? Jak poznałeś pozostałych członków drużyny? Starzy przyjaciele? Rodzina?
 
-## STATYSTYKI, PANCERZ, WYSIŁEK
+# STATYSTYKI, PANCERZ, WYSIŁEK
 
 OKREŚL STATYSTYKI I WYSIŁEK Spójrz na twoją KARTĘ POSTACI i sięgnij po ołówek. Zaraz pod IMIENIEM bohatera znajduje się SZEŚĆ STATYSTYK, twój PANCERZ i typy WYSIŁKU które możesz wykonywać w czasie gry.
 
